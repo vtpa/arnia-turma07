@@ -1,5 +1,4 @@
 const fs = require('fs');
-
 const conteudo = { 
   title: "Título", 
   content: 'Conteúdo a ser gravado no arquivo'
